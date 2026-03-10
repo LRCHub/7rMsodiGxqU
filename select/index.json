@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "浮遊月光街",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-10T14:45:57.859082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "浮遊月光街 (Floating Moonlight City)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_浮遊月光街_(Floating_Moonlight_City)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "浮遊月光街",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_浮遊月光街_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浮遊月光街",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_浮遊月光街_稲葉曇.txt"
+    }
+  ]
+}
